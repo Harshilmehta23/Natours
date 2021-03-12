@@ -1,2 +1,2 @@
 # Natours
-Building a Project to learn advance css
+A Project to learn advance css
